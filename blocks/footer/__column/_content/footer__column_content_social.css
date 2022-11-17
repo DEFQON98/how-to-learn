@@ -1,0 +1,6 @@
+.footer__column_content_social {
+	flex-direction: column;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	flex-basis: content;
+}
